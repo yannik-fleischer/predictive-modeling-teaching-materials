@@ -1,0 +1,1478 @@
+digraph {
+	label=<<TABLE BORDER="1" CELLSPACING="2" CELLPADDING="2" BGCOLOR="lightblue">
+                                            <TR>
+                                                <TD><FONT POINT-SIZE="12.0" COLOR="black">Spielen_OnlineSpiele?   </FONT></TD>
+                                            </TR>
+                                            <TR>
+                                                <TD><FONT  POINT-SIZE="10.0" COLOR="dimgrey">['Häufig', 'Selten']</FONT></TD>
+                                            </TR>
+                                        </TABLE>> labeljust=l labelloc=t
+	1 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[73, 77]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_LetsPlay?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.1</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	2 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[45, 6]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Geschlecht?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.2</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	3 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[43, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">E_Reader_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.3</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	4 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[6, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">FesteKonsole_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.4</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	5 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.5</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	6 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Sportvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.6</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	7 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.7</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	8 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.8</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	9 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[37, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">FesteKonsole_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.9</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	10 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[26, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.10</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	11 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[16, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.11</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	12 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[10, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Instagram?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.12</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	13 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[10, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.13</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	14 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.14</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	15 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[11, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.15</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	16 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[6, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.16</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	17 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.17</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	18 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.18</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	19 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.19</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	20 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">E_Reader_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.20</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	21 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.21</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	22 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.22</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	23 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[27, 69]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">E_Reader_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.23</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	24 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[6, 15]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Geschlecht?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.24</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	25 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">FesteKonsole_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.25</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	26 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.26</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	27 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.27</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	28 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[4, 14]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Smartphone_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.28</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	29 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[3, 12]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">FesteKonsole_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.29</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	30 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.30</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	31 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_ModeBeauty?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.31</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	32 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.32</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	33 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Musikvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.33</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	34 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.34</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	35 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.35</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	36 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.36</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	37 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 9]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.37</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	38 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.38</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	39 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 7]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.39</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	40 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.40</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	41 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 6]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_ModeBeauty?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.41</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	42 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.42</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	43 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Musikvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.43</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	44 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.44</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	45 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.45</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	46 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.46</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	47 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.47</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	48 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.48</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	49 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[21, 54]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Smartphone_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.49</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	50 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[21, 51]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">FesteKonsole_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.50</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	51 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[10, 20]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Snapchat?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.51</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	52 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[3, 16]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Instagram?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.52</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	53 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 16]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.53</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	54 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 8]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.54</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	55 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Sportvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.55</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	56 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.56</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	57 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.57</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	58 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 5]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.58</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	59 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 8]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.59</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	60 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.60</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	61 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[7, 4]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.61</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	62 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.62</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	63 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.63</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	64 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[3, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_LustigeClips?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.64</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	65 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.65</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	66 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[3, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.66</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	67 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_LustigeClips?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.67</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	68 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.68</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	69 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.69</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	70 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Sportvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.70</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	71 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.71</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	72 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.72</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	73 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.73</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	74 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[11, 31]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Computer_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.74</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	75 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[6, 6]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Musikvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.75</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	76 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 4]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.76</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	77 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.77</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	78 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_LustigeClips?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.78</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	79 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.79</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	80 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.80</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	81 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Sportvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.81</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	82 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.82</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	83 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.83</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	84 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_ModeBeauty?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.84</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	85 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.85</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	86 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_LustigeClips?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.86</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	87 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.87</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	88 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.88</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	89 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[3, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.89</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	90 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[5, 25]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Tablet_Besitz?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.90</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	91 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 5]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Snapchat?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.91</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	92 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 5]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.92</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	93 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.93</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	94 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[4, 20]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_ModeBeauty?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.94</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	95 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.95</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	96 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[4, 17]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Sportvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.96</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	97 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.97</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	98 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[4, 16]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_LustigeClips?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.98</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	99 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.99</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	100 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[4, 15]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Youtube_Musikvideos?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.100</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	101 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[3, 7]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Instagram?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.101</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	102 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 5]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Snapchat?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.102</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	103 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.103</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	104 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.104</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	105 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 2]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Snapchat?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.105</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	106 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.106</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	107 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[2, 1]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.107</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	108 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 8]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Nutzen_Instagram?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.108</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	109 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 5]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.109</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	110 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0.5">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Geschlecht?</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.110</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> shape=record]
+	111 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.111</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	112 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[1, 0]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Häufig</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.112</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	113 [label=<<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="1">
+                                                                <TR>
+                                                                    <TD><FONT POINT-SIZE="10.0" COLOR="dimgrey">[0, 3]</FONT></TD>
+                                                                </TR>
+
+                                                                <TR>
+                                                                    <TD><FONT  POINT-SIZE="14.0" COLOR="black">Selten</FONT></TD>
+                                                                </TR>
+                                                                <TR>
+                                                                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10.0" COLOR="dimgrey">Nr.113</FONT></TD>
+                                                                </TR>
+                                                                    </TABLE>> color=yellow shape=record style=filled]
+	4 -> 5 [label=Ja labeltooltip=Ja]
+	6 -> 7 [label="Häufig" labeltooltip="Häufig"]
+	6 -> 8 [label=Selten labeltooltip=Selten]
+	4 -> 6 [label=Nein labeltooltip=Nein]
+	3 -> 4 [label=Ja labeltooltip=Ja]
+	10 -> 11 [label=Ja labeltooltip=Ja]
+	12 -> 13 [label="Häufig" labeltooltip="Häufig"]
+	12 -> 14 [label=Selten labeltooltip=Selten]
+	10 -> 12 [label=Nein labeltooltip=Nein]
+	9 -> 10 [label=Ja labeltooltip=Ja]
+	15 -> 16 [label=Ja labeltooltip=Ja]
+	17 -> 18 [label=Ja labeltooltip=Ja]
+	17 -> 19 [label=Nein labeltooltip=Nein]
+	15 -> 17 [label=Nein labeltooltip=Nein]
+	9 -> 15 [label=Nein labeltooltip=Nein]
+	3 -> 9 [label=Nein labeltooltip=Nein]
+	2 -> 3 [label="männlich" labeltooltip="männlich"]
+	20 -> 21 [label=Ja labeltooltip=Ja]
+	20 -> 22 [label=Nein labeltooltip=Nein]
+	2 -> 20 [label=weiblich labeltooltip=weiblich]
+	1 -> 2 [label="Häufig" labeltooltip="Häufig"]
+	25 -> 26 [label=Ja labeltooltip=Ja]
+	25 -> 27 [label=Nein labeltooltip=Nein]
+	24 -> 25 [label="männlich" labeltooltip="männlich"]
+	31 -> 32 [label="Häufig" labeltooltip="Häufig"]
+	33 -> 34 [label="Häufig" labeltooltip="Häufig"]
+	33 -> 35 [label=Selten labeltooltip=Selten]
+	31 -> 33 [label=Selten labeltooltip=Selten]
+	30 -> 31 [label=Ja labeltooltip=Ja]
+	30 -> 36 [label=Nein labeltooltip=Nein]
+	29 -> 30 [label=Ja labeltooltip=Ja]
+	37 -> 38 [label=Ja labeltooltip=Ja]
+	39 -> 40 [label=Ja labeltooltip=Ja]
+	41 -> 42 [label="Häufig" labeltooltip="Häufig"]
+	43 -> 44 [label="Häufig" labeltooltip="Häufig"]
+	43 -> 45 [label=Selten labeltooltip=Selten]
+	41 -> 43 [label=Selten labeltooltip=Selten]
+	39 -> 41 [label=Nein labeltooltip=Nein]
+	37 -> 39 [label=Nein labeltooltip=Nein]
+	29 -> 37 [label=Nein labeltooltip=Nein]
+	28 -> 29 [label=Ja labeltooltip=Ja]
+	46 -> 47 [label=Ja labeltooltip=Ja]
+	46 -> 48 [label=Nein labeltooltip=Nein]
+	28 -> 46 [label=Nein labeltooltip=Nein]
+	24 -> 28 [label=weiblich labeltooltip=weiblich]
+	23 -> 24 [label=Ja labeltooltip=Ja]
+	55 -> 56 [label="Häufig" labeltooltip="Häufig"]
+	55 -> 57 [label=Selten labeltooltip=Selten]
+	54 -> 55 [label=Ja labeltooltip=Ja]
+	54 -> 58 [label=Nein labeltooltip=Nein]
+	53 -> 54 [label=Ja labeltooltip=Ja]
+	53 -> 59 [label=Nein labeltooltip=Nein]
+	52 -> 53 [label="Häufig" labeltooltip="Häufig"]
+	52 -> 60 [label=Selten labeltooltip=Selten]
+	51 -> 52 [label="Häufig" labeltooltip="Häufig"]
+	62 -> 63 [label=Ja labeltooltip=Ja]
+	64 -> 65 [label="Häufig" labeltooltip="Häufig"]
+	64 -> 66 [label=Selten labeltooltip=Selten]
+	62 -> 64 [label=Nein labeltooltip=Nein]
+	61 -> 62 [label=Ja labeltooltip=Ja]
+	68 -> 69 [label=Ja labeltooltip=Ja]
+	70 -> 71 [label="Häufig" labeltooltip="Häufig"]
+	70 -> 72 [label=Selten labeltooltip=Selten]
+	68 -> 70 [label=Nein labeltooltip=Nein]
+	67 -> 68 [label="Häufig" labeltooltip="Häufig"]
+	67 -> 73 [label=Selten labeltooltip=Selten]
+	61 -> 67 [label=Nein labeltooltip=Nein]
+	51 -> 61 [label=Selten labeltooltip=Selten]
+	50 -> 51 [label=Ja labeltooltip=Ja]
+	76 -> 77 [label=Ja labeltooltip=Ja]
+	78 -> 79 [label="Häufig" labeltooltip="Häufig"]
+	78 -> 80 [label=Selten labeltooltip=Selten]
+	76 -> 78 [label=Nein labeltooltip=Nein]
+	75 -> 76 [label="Häufig" labeltooltip="Häufig"]
+	81 -> 82 [label="Häufig" labeltooltip="Häufig"]
+	84 -> 85 [label="Häufig" labeltooltip="Häufig"]
+	86 -> 87 [label="Häufig" labeltooltip="Häufig"]
+	86 -> 88 [label=Selten labeltooltip=Selten]
+	84 -> 86 [label=Selten labeltooltip=Selten]
+	83 -> 84 [label=Ja labeltooltip=Ja]
+	83 -> 89 [label=Nein labeltooltip=Nein]
+	81 -> 83 [label=Selten labeltooltip=Selten]
+	75 -> 81 [label=Selten labeltooltip=Selten]
+	74 -> 75 [label=Ja labeltooltip=Ja]
+	91 -> 92 [label="Häufig" labeltooltip="Häufig"]
+	91 -> 93 [label=Selten labeltooltip=Selten]
+	90 -> 91 [label=Ja labeltooltip=Ja]
+	94 -> 95 [label="Häufig" labeltooltip="Häufig"]
+	96 -> 97 [label="Häufig" labeltooltip="Häufig"]
+	98 -> 99 [label="Häufig" labeltooltip="Häufig"]
+	102 -> 103 [label="Häufig" labeltooltip="Häufig"]
+	102 -> 104 [label=Selten labeltooltip=Selten]
+	101 -> 102 [label="Häufig" labeltooltip="Häufig"]
+	105 -> 106 [label="Häufig" labeltooltip="Häufig"]
+	105 -> 107 [label=Selten labeltooltip=Selten]
+	101 -> 105 [label=Selten labeltooltip=Selten]
+	100 -> 101 [label="Häufig" labeltooltip="Häufig"]
+	108 -> 109 [label="Häufig" labeltooltip="Häufig"]
+	110 -> 111 [label="männlich" labeltooltip="männlich"]
+	110 -> 112 [label=weiblich labeltooltip=weiblich]
+	108 -> 110 [label=Selten labeltooltip=Selten]
+	100 -> 108 [label=Selten labeltooltip=Selten]
+	98 -> 100 [label=Selten labeltooltip=Selten]
+	96 -> 98 [label=Selten labeltooltip=Selten]
+	94 -> 96 [label=Selten labeltooltip=Selten]
+	90 -> 94 [label=Nein labeltooltip=Nein]
+	74 -> 90 [label=Nein labeltooltip=Nein]
+	50 -> 74 [label=Nein labeltooltip=Nein]
+	49 -> 50 [label=Ja labeltooltip=Ja]
+	49 -> 113 [label=Nein labeltooltip=Nein]
+	23 -> 49 [label=Nein labeltooltip=Nein]
+	1 -> 23 [label=Selten labeltooltip=Selten]
+}
